@@ -1,1 +1,1 @@
-# forest-cover-type-prediction
+# Forest Cover Type Prediction
